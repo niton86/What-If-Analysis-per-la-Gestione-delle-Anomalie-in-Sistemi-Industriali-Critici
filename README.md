@@ -1,4 +1,4 @@
-# Factory Zero: What-If Analysis Suite for JaamSim
+# What-If Analysis suite to Manage Anomalies in Critical Industrial Services
 
 ## Table of Contents
 
