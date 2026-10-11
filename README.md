@@ -22,7 +22,7 @@
 
 ## Overview
 
-**Factory Zero** is a Python-based software suite integrated with **JaamSim** designed for comprehensive industrial "what-if" simulation analysis.
+This software is a Python-based suite integrated with **JaamSim** designed for comprehensive industrial "what-if" simulation analysis.
 
 The software enables the users to generate multiple configurations of a baseline industrial complex, execute them in automated batches, and scientifically classify the outcomes. By evaluating system variations through **OEE (Overall Equipment Effectiveness)**, focusing on machine availability, performance, and overall quality yield. The tool provides robust, data-driven decision support for industrial optimization
 
@@ -34,7 +34,7 @@ The suite is based on two separate part to support multi-simulation scenario gen
 
 The generation of the configurations can be executed by humans, AI or any other software. Here stands an example tool used to build varying scenarios (N configurations) of the same industrial complex. The baseline system architecture remains constant to ensure valid comparative analysis, while specific parameters are altered:
 
-* **Global Conditions:** Adjust run duration, production per hour (PPH), and workload branching/routing between parallel machines.
+* **Global Conditions:** Adjust production per hour (PPH), and workload branching/routing between parallel machines.
 
 * **Machinery Parameters:** For each machine (M1, M2, M3), users can modify failure distributions (TBF - Exponential/Weibull), repair times (TTR), fixed maintenance schedules, processing times, and error/success probabilities.
 
